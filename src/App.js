@@ -1,9 +1,9 @@
-import './App.css';
+import Index from "./components/header/Index";
 
 function App() {
   return (
     <div className="App">
-     
+      <Index />
     </div>
   );
 }
