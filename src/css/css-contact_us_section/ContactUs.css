@@ -38,11 +38,12 @@
   font-size: 16px;
   margin-top: 8px;
   width: 90px;
+  margin-left: 6px;
 }
 
 /* address css */
 .address {
-  margin-left: 5rem;
+  margin-left: 7rem;
 }
 .address p {
   font-size: 22px;
@@ -57,25 +58,15 @@
   .form {
     width: 33%;
   }
-  .address p {
-    font-size: 17px;
-  }
   .address h1 {
-    font-size: 25px;
-    font-weight: 600;
+    font-size: 31px;
+    font-weight: 550;
   }
 }
 
 @media (max-width: 1380px) {
   .form {
     width: 35%;
-  }
-  .address p {
-    font-size: 16px;
-  }
-  .address h1 {
-    font-size: 22px;
-    font-weight: 620;
   }
 }
 @media (max-width: 1280px) {
