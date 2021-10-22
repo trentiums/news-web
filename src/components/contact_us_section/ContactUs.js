@@ -4,7 +4,6 @@ function ContactUs() {
   return (
     <div className="contact-section">
       <form className="form">
-        <h3>Message Us</h3>
         <div className="form-row">
           <div className="col">
             <input
@@ -50,13 +49,13 @@ function ContactUs() {
             defaultValue={""}
           />
         </div>
-        <button type="submit" className="btn btn-primary">
+        <button type="submit" className="btn btn-dark">
           Submit
         </button>
       </form>
 
       <div className="address">
-        <h1>Contact Address</h1>
+        <h1>Contact Us</h1>
         <p>
           <strong>Street:</strong> 84 2nd Floor, Part 2 Vinoba Puri
         </p>

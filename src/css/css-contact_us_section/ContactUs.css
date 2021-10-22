@@ -5,6 +5,8 @@
   align-items: center;
   margin-top: 8rem;
   margin-bottom: 3rem;
+  background-color: rgb(235, 233, 233);
+  height: 72vh;
 }
 /* form css */
 
@@ -24,7 +26,7 @@
   padding: 38px;
   background-color: white;
   box-sizing: border-box;
-  box-shadow: 4px 4px 4px rgb(123, 121, 156);
+  box-shadow: 1.5px 1.5px 6px rgb(123, 121, 156);
 }
 
 .form h3 {
@@ -35,7 +37,7 @@
 }
 
 .btn {
-  font-size: 16px;
+  font-size: 17px;
   margin-top: 8px;
   width: 90px;
   margin-left: 6px;
